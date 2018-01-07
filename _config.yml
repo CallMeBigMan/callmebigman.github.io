@@ -16,7 +16,7 @@ links:
     external:     false
   - name:         书籍
     url:          /book
-    external:     false
+    external:     true
   - name:         旅游
     url:          /road
     external:     false
